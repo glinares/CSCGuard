@@ -4,6 +4,9 @@ Protects and logs suspicious and malicious usage of .NET CSC.exe and Runtime C# 
 # Usage
 CSCGuard is meant to be used in sandbox, analysis, or non-production environments.  I simply have not tested enough conditions to guarantee it's performance or security within real user environments, please use at your own risk.  The code is ugly but its functional, being a hack done in a single day in order to analyze some malware.
 
+# Default Deny Settings
+By default CSCGuard will prevent suspicious CSC execution (See MaxThreatLevel in Config).  In order to analyze malware, set MaxThreatLevel to some ridiculous number like 999 in order to allow passthru to CSC.exe in order to collect files.
+
 # Installation
 - Compile the source and take the resulting CSCGuard.exe and CSCGuard.exe.config files or use the provided binaries.
 - You will need to elevate your privileges to TrustedInstaller in order to change the .NET Framework folders - I suggest using the tools RunAsSystem and RunFromToken tools in order to easily accomplish this.
