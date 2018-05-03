@@ -72,17 +72,22 @@ A Windows Event Log entry will contain the following output:
 CSCGuard Intercept Event: 
 
 <PARENT PROCESS BINARY> Attempted to Execute CSC.EXE with the following parameters: 
-{
 <CSC COMMANDLINE>
-}
 
 CSCGuard Log Folder For This Event: <SPECIFIC EVENT CSCGUARD LOG FOLDER>
+  
 CSCGuard Passed Execution To Original CSC.exe: <TRUE|FALSE>
+
 CSCGuard Heuristic Threat Level: <INTEGER>
+  
 CSCGuard Detected Runtime Compilation: <TRUE|FALSE>
+
 CSCGuard Parent Process Signed: <TRUE|FALSE>
+
 CSCGuard Parent Process Has Valid Signature: <TRUE|FALSE>
+
 CSCGuard Code Executed From %TEMP% Folder: <TRUE|FALSE>
+
 CSCGuard v0.3 by Greg Linares (@Laughing_Mantis)
 
 
