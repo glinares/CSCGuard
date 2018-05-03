@@ -2,7 +2,7 @@
 Protects and logs suspicious and malicious usage of .NET CSC.exe and Runtime C# Compilation 
 
 # Usage
-CSCGuard is meant to be used in sandbox, analysis, or non-production environments.  I simply have not tested enough conditions to guarantee it's performance or security within real user environments, please use at your own risk.
+CSCGuard is meant to be used in sandbox, analysis, or non-production environments.  I simply have not tested enough conditions to guarantee it's performance or security within real user environments, please use at your own risk.  The code is ugly but its functional, being a hack done in a single day in order to analyze some malware.
 
 # Installation
 - Compile the source and take the resulting CSCGuard.exe and CSCGuard.exe.config files or use the provided binaries.
@@ -40,6 +40,7 @@ Example: %USERPROFILE%\CSCGuard\Log\2018\May-03\00-04-15.7864500
 # Log Files
 CMDLine.txt - Contains the original (or runtime generated) Commandline passed to CSC.EXE
 CSCGuard.txt - Contains debug and detailed information of the intercept event and all the information gathered.
+
 
 # Evidence Files
 Additional files collected in this folder are all the evidence files gathered by CSCGuard in order to help analysis:
