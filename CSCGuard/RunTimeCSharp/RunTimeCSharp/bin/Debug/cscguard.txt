@@ -1,0 +1,18 @@
+[i] CSCGuard: Executed at 5/2/2018 5:46:15 PM
+[i] CSCGuard: Parameter Count [3]
+[i] CSCGuard: Original Cmdline: /noconfig /fullpaths @C:\Users\Greg\AppData\Local\Temp\wfbgcb34.cmdline
+[!] CSCGuard: Source Appears To Be Using Compiled At Runtime Methods
+[i] CSCGuard: Attempting Runtime Cmdline Relaunch...
+[i] CSCGuard Debug: Parent Process Id: 21472
+[i] CSCGuard Debug: Parent Process Name: RunTimeCSharp
+[i] CSCGuard Debug: Parent Process Filename: C:\Users\Greg\source\repos\RunTimeCSharp\RunTimeCSharp\bin\Debug\RunTimeCSharp.exe
+[i] CSCGuard: No Digital Signature Found for [C:\Users\Greg\source\repos\RunTimeCSharp\RunTimeCSharp\bin\Debug\RunTimeCSharp.exe]
+[i] CSCGuard: Executed at 5/2/2018 5:48:02 PM
+[i] CSCGuard: Parameter Count [3]
+[i] CSCGuard: Original Cmdline: /noconfig /fullpaths @C:\Users\Greg\AppData\Local\Temp\4nuad3ng.cmdline
+[!] CSCGuard: Source Appears To Be Using Compiled At Runtime Methods
+[i] CSCGuard: Attempting Runtime Cmdline Relaunch...
+[i] CSCGuard Debug: Parent Process Id: 17264
+[i] CSCGuard Debug: Parent Process Name: RunTimeCSharp
+[i] CSCGuard Debug: Parent Process Filename: C:\Users\Greg\source\repos\RunTimeCSharp\RunTimeCSharp\bin\Debug\RunTimeCSharp.exe
+[i] CSCGuard: No Digital Signature Found for [C:\Users\Greg\source\repos\RunTimeCSharp\RunTimeCSharp\bin\Debug\RunTimeCSharp.exe]

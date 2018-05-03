@@ -1,0 +1,6 @@
+C:\Users\Greg\source\repos\RunTimeCSharp\RunTimeCSharp\obj\Debug\RunTimeCSharp.csprojResolveAssemblyReference.cache
+C:\Users\Greg\source\repos\RunTimeCSharp\RunTimeCSharp\obj\Debug\RunTimeCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Greg\source\repos\RunTimeCSharp\RunTimeCSharp\bin\Debug\RunTimeCSharp.exe
+C:\Users\Greg\source\repos\RunTimeCSharp\RunTimeCSharp\bin\Debug\RunTimeCSharp.pdb
+C:\Users\Greg\source\repos\RunTimeCSharp\RunTimeCSharp\obj\Debug\RunTimeCSharp.exe
+C:\Users\Greg\source\repos\RunTimeCSharp\RunTimeCSharp\obj\Debug\RunTimeCSharp.pdb
