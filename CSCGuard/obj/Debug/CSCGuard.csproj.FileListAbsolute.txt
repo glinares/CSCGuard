@@ -1,0 +1,7 @@
+c:\users\greg\source\repos\CSCGuard\CSCGuard\bin\Debug\CSCGuard.exe
+c:\users\greg\source\repos\CSCGuard\CSCGuard\bin\Debug\CSCGuard.pdb
+c:\users\greg\source\repos\CSCGuard\CSCGuard\obj\Debug\CSCGuard.csproj.CoreCompileInputs.cache
+c:\users\greg\source\repos\CSCGuard\CSCGuard\obj\Debug\CSCGuard.exe
+c:\users\greg\source\repos\CSCGuard\CSCGuard\obj\Debug\CSCGuard.pdb
+c:\users\greg\source\repos\CSCGuard\CSCGuard\obj\Debug\CSCGuard.csprojResolveAssemblyReference.cache
+C:\Users\Greg\source\repos\CSCGuard\CSCGuard\bin\Debug\CSCGuard.exe.config
